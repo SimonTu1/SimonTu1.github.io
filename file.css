@@ -16,12 +16,14 @@ body {
 
 }
 .navbar li{
-    display: inline-block;
+  
+  display: inline-flex;
+  font-size: 15px;
+  padding: 5px;
 
 }
 .navbar a{
     color:#ffff;
-    width: 100px;
     display:block;
     text-decoration: none;
 }
@@ -40,9 +42,19 @@ body {
 
 h2{
     text-align: left;
-    font-size: 40px;
+    font-size: 20px;
 }
 
 .skill {
     text-align: left;
 }
+
+footer{
+    width: 15x;
+    display: block;
+    overflow: hidden;
+    padding: 10px 0;
+    box-sizing: border-box;
+    
+}
+
