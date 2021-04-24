@@ -29,10 +29,9 @@
 
 <footer id="footer">
   <div class="footer-content">
-    <h3>Contact Information</h3>
-    <h3>Email: Simontu12345@gmail.com</h3>
-    <h3>Tele: 416-319-3198
-    <h3 a href="SimonTu1.github.io">Website: Simon.github</h3>
+     <p>Contact Information
+     Website: SimonTu1.github.io</p>
+     
     
     
 

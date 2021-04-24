@@ -55,13 +55,13 @@ footer{
     height: auto;
     width: 100vw;
     font-family: "Open Sans";
-    padding-top: 40px;
     color: white;
+    padding-top: 10px;
     
 }
 .footer-content{
-    display:inline-flex;
-    
-
+    display: inline-flex;
+    justify-content: space-between;
+  
 
 }
